@@ -1,0 +1,9 @@
+{
+  "name": "Muskan Designs",
+  "short_name": "Muskan Designs",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f5ff",
+  "theme_color": "#7657e8",
+  "description": "Muskan Designs portfolio and custom design service."
+}
